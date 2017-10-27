@@ -1,0 +1,67 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"drag_text": false,
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"linters":
+	{
+		"flake8":
+		{
+			"@disable": false,
+			"args":
+			[
+			],
+			"excludes":
+			[
+			],
+			"ignore": "E501",
+			"max-complexity": -1,
+			"max-line-length": null,
+			"select": ""
+		}
+	},
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"overlay_scroll_bars": "enabled",
+	"paths":
+	{
+		"linux":
+		[
+		],
+		"osx":
+		[
+			"~/.bash_profile"
+		],
+		"windows":
+		[
+		]
+	},
+	"tab_size": 4,
+	"tern_argument_completion": true,
+	"tern_argument_hints": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
