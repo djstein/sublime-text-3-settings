@@ -11,7 +11,7 @@
 	"caret_extra_top": 2,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Materialize/schemes/Material Solarized Dark.tmTheme",
 	"drag_text": false,
 	"font_face": "Source Code Pro",
 	"font_options":
@@ -21,6 +21,8 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
+		"Material Theme",
+		"Predawn",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
@@ -62,6 +64,6 @@
 	"tab_size": 4,
 	"tern_argument_completion": true,
 	"tern_argument_hints": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Material Solarized Dark.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

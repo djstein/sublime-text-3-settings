@@ -6,7 +6,7 @@
     // and configured settings will be printed to the Sublime Text Console;
     // useful for troubleshooting purposes.
 
-    "debug": false,
+    "debug": true,
 
     //
     // @prettier_cli_path { string | default = "" }
@@ -107,6 +107,6 @@
 
         // Whether to add a semicolon at the end of every line (semi: true),
         // or only at the beginning of lines that may introduce ASI failures (semi: false)
-        "semi": true,
+        "semi": false,
     }
 }
